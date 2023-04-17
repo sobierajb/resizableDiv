@@ -1,0 +1,36 @@
+{
+  "name": "resizable-div",
+  "version": "1.0.0",
+  "description": "This is a React component which allows to resize manually div component",
+  "main": "./dist/index.jsx",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "./dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sobierajb/resizableDiv.git"
+  },
+  "keywords": [
+    "React",
+    "resizable",
+    "div",
+    "component"
+  ],
+  "author": "sobierajb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sobierajb/resizableDiv/issues"
+  },
+  "homepage": "https://github.com/sobierajb/resizableDiv#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.35"
+  }
+}
